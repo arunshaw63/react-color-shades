@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-color-shades/static/css/main.df92c19e.chunk.css",
+    "main.js": "/react-color-shades/static/js/main.3c2589f3.chunk.js",
+    "main.js.map": "/react-color-shades/static/js/main.3c2589f3.chunk.js.map",
+    "runtime-main.js": "/react-color-shades/static/js/runtime-main.5e631b42.js",
+    "runtime-main.js.map": "/react-color-shades/static/js/runtime-main.5e631b42.js.map",
+    "static/js/2.ba2684d3.chunk.js": "/react-color-shades/static/js/2.ba2684d3.chunk.js",
+    "static/js/2.ba2684d3.chunk.js.map": "/react-color-shades/static/js/2.ba2684d3.chunk.js.map",
+    "index.html": "/react-color-shades/index.html",
+    "precache-manifest.7f75eabc35d535de380e5a6d9a9ae681.js": "/react-color-shades/precache-manifest.7f75eabc35d535de380e5a6d9a9ae681.js",
+    "service-worker.js": "/react-color-shades/service-worker.js",
+    "static/css/main.df92c19e.chunk.css.map": "/react-color-shades/static/css/main.df92c19e.chunk.css.map",
+    "static/js/2.ba2684d3.chunk.js.LICENSE.txt": "/react-color-shades/static/js/2.ba2684d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e631b42.js",
+    "static/js/2.ba2684d3.chunk.js",
+    "static/css/main.df92c19e.chunk.css",
+    "static/js/main.3c2589f3.chunk.js"
+  ]
+}
